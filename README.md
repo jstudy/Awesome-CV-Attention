@@ -42,9 +42,9 @@ Research on this paper [[Link](https://mp.weixin.qq.com/s/oxkoh6VnXV2CX3-BmXbZOw
 - Squeeze-and-Attention Networks for Semantic Segmentation (CVPR-2020)[[paper](https://arxiv.org/abs/1909.03402)]
 - Dual Attention Network for Scene Segmentation (CVPR)[[paper](https://arxiv.org/abs/1809.02983)]  
 Research on this paper [[Link](https://zhuanlan.zhihu.com/p/48056789)]
-- DCANet: Learning Connected Attentions for Convolutional Neural Networks [[paper](https://arxiv.org/abs/2007.05099)]  
+- DCANet: Learning Connected Attentions for Convolutional Neural Networks (CVPR)[[paper](https://arxiv.org/abs/2007.05099)]  
 Research on this paper [[Link](https://mp.weixin.qq.com/s/xJgL3t63ipfv2JYsOZpeYg)]
-- Gated Channel Transformation for Visual Recognition [[paper](https://arxiv.org/abs/1909.11519)]  
+- Gated Channel Transformation for Visual Recognition (CVPR-2020)[[paper](https://arxiv.org/abs/1909.11519)][[code](https://github.com/z-x-yang/GCT)]  
 Research on this paper [[Link](https://mp.weixin.qq.com/s/0CA-flSdUV3lPjzRGzvOvA)]
 
 <details>
@@ -54,11 +54,11 @@ Research on this paper [[Link](https://mp.weixin.qq.com/s/0CA-flSdUV3lPjzRGzvOvA
 
 
 ### 2020
-- ResNeSt: Split-Attention Networks [[paper](https://hangzhang.org/files/resnest.pdf)]  
+- ResNeSt: Split-Attention Networks (CVPR)[[paper](https://hangzhang.org/files/resnest.pdf)][[code](https://github.com/zhanghang1989/ResNeSt)]   
 Research on this paper [[Link](https://mp.weixin.qq.com/s/65ueZDuZ-b3_VnGdQbrk_g)]
-- <a name="D-ConvNet"></a> **[HAttMatting]** Attention-Guided Hierarchical Structure Aggregation for Image Matting (CVPR)[[paper](https://ieeexplore.ieee.org/document/9156481)]  
+- <a name="D-ConvNet"></a> **[HAttMatting]** Attention-Guided Hierarchical Structure Aggregation for Image Matting (CVPR)[[paper](https://ieeexplore.ieee.org/document/9156481)][[code](https://github.com/implus/SKNet)]  
 Research on this paper [[Link](https://mp.weixin.qq.com/s/bXyz0cEfVfL_VrFFV2NzTQ)]
-- Weight Excitation: Built-in Attention Mechanisms in Convolutional Neural Networks (ECCV)[[paper](https://ieeexplore.ieee.org/document/9156481)]  
+- Weight Excitation: Built-in Attention Mechanisms in Convolutional Neural Networks (ECCV-2020)[[paper](https://ieeexplore.ieee.org/document/9156481)]  
 Research on this paper [[Link](https://mp.weixin.qq.com/s/ilx839gI2Av06dAlOXiR5g)]
 
 ### 2019

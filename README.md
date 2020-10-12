@@ -33,9 +33,9 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
-- Deep High-Resolution Representation Learning for Visual Recognition [[paper](https://arxiv.org/abs/1908.07919)]  
+- Deep High-Resolution Representation Learning for Visual Recognition(IEEE-TPAMI)[[paper](https://arxiv.org/abs/1908.07919)][[code](https://github.com/HRNet)]    
 Research on this paper [[Link](https://mp.weixin.qq.com/s/2bBp_mSl4qM5lQMfpkzDnQ)]
-- Squeeze-and-Excitation Networks [[paper](https://arxiv.org/abs/1709.01507)]  
+- Squeeze-and-Excitation Networks(CVPR-2018) [[paper](https://arxiv.org/abs/1709.01507)][[code](https://github.com/hujie-frank/SENet)] Pytorch[[code](https://github.com/moskomule/senet.pytorch)]  
 Research on this paper [[Link](https://mp.weixin.qq.com/s/a-dswrPWBrk9YL8KEhTlsg)]
 - Selective Kernel Networks [[paper](https://arxiv.org/abs/1903.06586)]  
 Research on this paper [[Link](https://mp.weixin.qq.com/s/oxkoh6VnXV2CX3-BmXbZOw)]

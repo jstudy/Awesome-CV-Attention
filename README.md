@@ -37,7 +37,7 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 Research on this paper [[Link](https://mp.weixin.qq.com/s/2bBp_mSl4qM5lQMfpkzDnQ)]
 - Squeeze-and-Excitation Networks(CVPR-2018) [[paper](https://arxiv.org/abs/1709.01507)][[code](https://github.com/hujie-frank/SENet)] Pytorch[[code](https://github.com/moskomule/senet.pytorch)]  
 Research on this paper [[Link](https://mp.weixin.qq.com/s/a-dswrPWBrk9YL8KEhTlsg)]
-- Selective Kernel Networks [[paper](https://arxiv.org/abs/1903.06586)]  
+- Selective Kernel Networks (CVPR-2019)[[paper](https://arxiv.org/abs/1903.06586)][[code](https://github.com/implus/SKNet)]  
 Research on this paper [[Link](https://mp.weixin.qq.com/s/oxkoh6VnXV2CX3-BmXbZOw)]
 - Squeeze-and-Attention Networks for Semantic Segmentation (CVPR-2020)[[paper](https://arxiv.org/abs/1909.03402)]
 - Dual Attention Network for Scene Segmentation (CVPR)[[paper](https://arxiv.org/abs/1809.02983)]  

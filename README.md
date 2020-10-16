@@ -33,20 +33,6 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
-- Deep High-Resolution Representation Learning for Visual Recognition(IEEE-TPAMI)[[paper](https://arxiv.org/abs/1908.07919)][[code](https://github.com/HRNet)]    
-Research on this paper [[Link](https://mp.weixin.qq.com/s/2bBp_mSl4qM5lQMfpkzDnQ)]
-- Squeeze-and-Excitation Networks(CVPR-2018) [[paper](https://arxiv.org/abs/1709.01507)][[code](https://github.com/hujie-frank/SENet)] Pytorch[[code](https://github.com/moskomule/senet.pytorch)]  
-Research on this paper [[Link](https://mp.weixin.qq.com/s/a-dswrPWBrk9YL8KEhTlsg)]
-- Selective Kernel Networks (CVPR-2019)[[paper](https://arxiv.org/abs/1903.06586)][[code](https://github.com/implus/SKNet)]  
-Research on this paper [[Link](https://mp.weixin.qq.com/s/oxkoh6VnXV2CX3-BmXbZOw)]
-- Squeeze-and-Attention Networks for Semantic Segmentation (CVPR-2020)[[paper](https://arxiv.org/abs/1909.03402)]
-- Dual Attention Network for Scene Segmentation (CVPR)[[paper](https://arxiv.org/abs/1809.02983)][[code](https://github.com/junfu1115/DANet)]  
-Research on this paper [[Link](https://zhuanlan.zhihu.com/p/48056789)]
-- DCANet: Learning Connected Attentions for Convolutional Neural Networks (CVPR)[[paper](https://arxiv.org/abs/2007.05099)]  
-Research on this paper [[Link](https://mp.weixin.qq.com/s/xJgL3t63ipfv2JYsOZpeYg)]
-- Gated Channel Transformation for Visual Recognition (CVPR-2020)[[paper](https://arxiv.org/abs/1909.11519)][[code](https://github.com/z-x-yang/GCT)]  
-Research on this paper [[Link](https://mp.weixin.qq.com/s/0CA-flSdUV3lPjzRGzvOvA)]
-
 <details>
 <summary>Earlier ArXiv Papers</summary>
 
@@ -54,6 +40,11 @@ Research on this paper [[Link](https://mp.weixin.qq.com/s/0CA-flSdUV3lPjzRGzvOvA
 
 
 ### 2020
+- DCANet: Learning Connected Attentions for Convolutional Neural Networks (ECCV-2020)[[paper](https://arxiv.org/abs/2007.05099)]  
+Research on this paper [[Link](https://mp.weixin.qq.com/s/xJgL3t63ipfv2JYsOZpeYg)]
+- Squeeze-and-Attention Networks for Semantic Segmentation (CVPR-2020)[[paper](https://arxiv.org/abs/1909.03402)]
+- Gated Channel Transformation for Visual Recognition (CVPR-2020)[[paper](https://arxiv.org/abs/1909.11519)][[code](https://github.com/z-x-yang/GCT)]  
+Research on this paper [[Link](https://mp.weixin.qq.com/s/0CA-flSdUV3lPjzRGzvOvA)]
 - ResNeSt: Split-Attention Networks (CVPR)[[paper](https://hangzhang.org/files/resnest.pdf)][[code](https://github.com/zhanghang1989/ResNeSt)]   
 Research on this paper [[Link](https://mp.weixin.qq.com/s/65ueZDuZ-b3_VnGdQbrk_g)]
 - <a name="D-ConvNet"></a> **[HAttMatting]** Attention-Guided Hierarchical Structure Aggregation for Image Matting (CVPR)[[paper](https://ieeexplore.ieee.org/document/9156481)][[code](https://github.com/implus/SKNet)]  
@@ -62,9 +53,15 @@ Research on this paper [[Link](https://mp.weixin.qq.com/s/bXyz0cEfVfL_VrFFV2NzTQ
 Research on this paper [[Link](https://mp.weixin.qq.com/s/ilx839gI2Av06dAlOXiR5g)]
 
 ### 2019
-
+- Deep High-Resolution Representation Learning for Visual Recognition(CVPR-2019)[[paper](https://arxiv.org/abs/1908.07919)][[code](https://github.com/HRNet)]    
+Research on this paper [[Link](https://mp.weixin.qq.com/s/2bBp_mSl4qM5lQMfpkzDnQ)]
+- Selective Kernel Networks (CVPR-2019)[[paper](https://arxiv.org/abs/1903.06586)][[code](https://github.com/implus/SKNet)]  
+Research on this paper [[Link](https://mp.weixin.qq.com/s/oxkoh6VnXV2CX3-BmXbZOw)]
 ### 2018
-
+- Dual Attention Network for Scene Segmentation (CVPR-2018)[[paper](https://arxiv.org/abs/1809.02983)][[code](https://github.com/junfu1115/DANet)]  
+Research on this paper [[Link](https://zhuanlan.zhihu.com/p/48056789)]
+- Squeeze-and-Excitation Networks(CVPR-2018) [[paper](https://arxiv.org/abs/1709.01507)][[code](https://github.com/hujie-frank/SENet)] Pytorch[[code](https://github.com/moskomule/senet.pytorch)]  
+Research on this paper [[Link](https://mp.weixin.qq.com/s/a-dswrPWBrk9YL8KEhTlsg)]
 - <a name="SANet"></a> **[CBAM]** Convolutional Block Attention Module (ECCV)[[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Sanghyun_Woo_Convolutional_Block_Attention_ECCV_2018_paper.pdf)]  
 Research on this paper [[Link](https://zhuanlan.zhihu.com/p/65529934)]
 

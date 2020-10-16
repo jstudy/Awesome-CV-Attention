@@ -19,7 +19,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 
 ### Technical blog
-
+- 深度学习注意力与记忆机制[[Link](https://mp.weixin.qq.com/s/FlA1YrR0sLQGJoJZnSXpRw)]
 
 ## Datasets
 
@@ -33,6 +33,9 @@ Considering the increasing number of papers in this field, we roughly summarize 
 ### arXiv papers
 Note that all unpublished arXiv papers are not included in [the leaderboard of performance](#performance).
 
+- Rotate to Attend: Convolutional Triplet Attention Module[[paper](https://arxiv.org/abs/2010.03045)][[code](https://github.com/LandskapeAI/triplet-attention)]  
+- Neural encoding with visual attention[[paper](https://arxiv.org/abs/2010.00516)]  
+Research on this paper [[Link](https://mp.weixin.qq.com/s/zBr_x6QKbGxJzQp3YzrmnQ)]
 <details>
 <summary>Earlier ArXiv Papers</summary>
 

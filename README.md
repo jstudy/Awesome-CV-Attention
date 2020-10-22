@@ -36,8 +36,6 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Rotate to Attend: Convolutional Triplet Attention Module[[paper](https://arxiv.org/abs/2010.03045)][[code](https://github.com/LandskapeAI/triplet-attention)]  
 - Neural encoding with visual attention[[paper](https://arxiv.org/abs/2010.00516)]  
 Research on this paper [[Link](https://mp.weixin.qq.com/s/zBr_x6QKbGxJzQp3YzrmnQ)]
-- Rotate to Attend: Convolutional Triplet Attention Module[[paper](https://arxiv.org/abs/2010.03045)][[paper](https://github.com/LandskapeAI/triplet-attention)]  
-Research on this paper [[Link](https://mp.weixin.qq.com/s/WYBswnB9duO-DLSwG_F6QQ)]
 <details>
 <summary>Earlier ArXiv Papers</summary>
 

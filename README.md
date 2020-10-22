@@ -36,6 +36,11 @@ Note that all unpublished arXiv papers are not included in [the leaderboard of p
 - Rotate to Attend: Convolutional Triplet Attention Module[[paper](https://arxiv.org/abs/2010.03045)][[code](https://github.com/LandskapeAI/triplet-attention)]  
 - Neural encoding with visual attention[[paper](https://arxiv.org/abs/2010.00516)]  
 Research on this paper [[Link](https://mp.weixin.qq.com/s/zBr_x6QKbGxJzQp3YzrmnQ)]
+- Deep High-Resolution Representation Learning for Visual Recognition[[paper](https://arxiv.org/abs/1908.07919)][[code](https://github.com/HRNet)][[video](https://www.bilibili.com/video/BV1WJ41197dh?t=508)]   
+Research on this paper [[Link](https://mp.weixin.qq.com/s?__biz=MzU2NDExMzE5Nw==&mid=2247485243&idx=2&sn=4cf73ac84bdf064b649f6bf0aa8b3930&chksm=fc4ebd79cb39346f19a70eb07e35c3d61e43487ecd83d397f31e464f5584f6be9b1b0ccfb09e&mpshare=1&scene=1&srcid=1010LkNbbYg5EzUcwB7gHcjE&sharer_sharetime=1602303490397&sharer_shareid=fd8c7684b39b2eac07b5e0c63bf1346a&key=14893ff72db1d5ee0088db18c310b8b6d459213d96a45f2a2c3af4afcb702a473a9d643b8f9f259c0e87f83e0199fcb18a7a950b720b506b50d953252d989e40fa5d599ec976c1d960211439c1308af60e0a76154d9d88b26710883344a9b109679d4f6c8e3fb6c65081a34e4e1f609c3e72c9080b4bfa1b99f9003fa3bd7e4c&ascene=1&uin=Mjg1Mzg0ODMzMA%3D%3D&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=ASBpO%2BjtjEg7X6MctgYfDKI%3D&pass_ticket=Cz67wUTL3RpVi0NHLVPCJOM8DtIHGFNJZqgE5Tk%2FDHEDHwgbRWtMAfGco6cfR%2BOZ&wx_header=0)]
+
+
+
 <details>
 <summary>Earlier ArXiv Papers</summary>
 
@@ -61,6 +66,8 @@ Research on this paper [[Link](https://mp.weixin.qq.com/s/2bBp_mSl4qM5lQMfpkzDnQ
 - Selective Kernel Networks (CVPR-2019)[[paper](https://arxiv.org/abs/1903.06586)][[code](https://github.com/implus/SKNet)]  
 Research on this paper [[Link](https://mp.weixin.qq.com/s/oxkoh6VnXV2CX3-BmXbZOw)]
 ### 2018
+- Non-local Neural Networks (CVPR 2018)[[paper](https://arxiv.org/abs/1711.07971)][[code](https://github.com/facebookresearch/video-nonlocal-net)]    
+Research on this paper [[Link](https://zhuanlan.zhihu.com/p/102984842)]
 - Dual Attention Network for Scene Segmentation (CVPR-2018)[[paper](https://arxiv.org/abs/1809.02983)][[code](https://github.com/junfu1115/DANet)]  
 Research on this paper [[Link](https://zhuanlan.zhihu.com/p/48056789)]
 - Squeeze-and-Excitation Networks(CVPR-2018) [[paper](https://arxiv.org/abs/1709.01507)][[code](https://github.com/hujie-frank/SENet)] Pytorch[[code](https://github.com/moskomule/senet.pytorch)]  

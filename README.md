@@ -21,7 +21,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ### Technical blog
 - 深度学习注意力与记忆机制[[Link](https://mp.weixin.qq.com/s/FlA1YrR0sLQGJoJZnSXpRw)]
 - 涨点神器GSA：全局自注意力网络，打造更强注意力模型[[Link](https://mp.weixin.qq.com/s/7L4R3kOgK-xS2cXS0u5zww)]
-
+- 一文看懂CV中的注意力机制[[Link](https://mp.weixin.qq.com/s/gDJJDxNnU4lNFOy0lmrPGQ)]
 
 ## Datasets
 
